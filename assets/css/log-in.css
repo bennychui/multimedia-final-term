@@ -3,6 +3,7 @@
     float: right;
     background-color: rgba(180, 217, 171, 0.122);
     padding: 10px;
+    
 }
 
 .sign-in > input{
@@ -13,7 +14,7 @@
     border-radius: 5px;
     border: 0;
     margin: 2px;
-    background-color: rgb(220, 99, 128);
+    background-color: #22BFAC;
 }
 
 .sign-in >a input{
@@ -24,6 +25,6 @@
     border-radius: 5px;
     border: 0;
     margin: 2px;
-    background-color: rgb(220, 99, 128);
+    background-color: #22BFAC;
 }
 
